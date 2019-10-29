@@ -1,0 +1,10 @@
+body{
+    font-family: Verdana, sans-serif;
+    margin-left:20%;
+    width: 80%;
+    background-image: url(img/clouds%20copy.jpg)
+}
+h1{
+  font-size: 60px;
+  color: #FF0000;
+}
